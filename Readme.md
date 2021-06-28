@@ -29,5 +29,5 @@ Hi, I'm [Ujjwal Anand](https://www.linkedin.com/in/imujjwalanand/), a Backend De
 
 
 <p align=”center”>📈 My GitHub Stats</p>
-<img width=”100” src="https://github-readme-stats.vercel.app/api?username=ujjwal-delhivery&show_icons=true&theme=gotham" alt="ujjwal" />
+<img width=”100” src="https://github-readme-stats.vercel.app/api?username=ujjwal-delhivery&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="ujjwal" />
 </p>
