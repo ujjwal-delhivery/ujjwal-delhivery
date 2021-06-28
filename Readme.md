@@ -24,7 +24,7 @@ Hi, I'm [Ujjwal Anand](https://www.linkedin.com/in/imujjwalanand/), a Backend De
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/13HgwGsXF0aiGY" width="300"/>
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/200w.webp?cid=ecf05e47rabevoyulv549p5gur2zoqct6gmnv2wk0yvvwuw6&rid=200w.webp&ct=g" width="300"/>
 
 
 
